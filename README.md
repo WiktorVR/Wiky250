@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Wiky250
+- 👀 I’m interested in Computing/Coding
+- 🌱 I’m currently learning Python
+- 📫 You can email me at wiktorswakon@hotmail.com
